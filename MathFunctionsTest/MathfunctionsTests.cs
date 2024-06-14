@@ -12,7 +12,7 @@ namespace MathFunctionsTest
             Mathfunctions math = new Mathfunctions();
             int a = 5;
             int b = 3;
-            int expectedSum = 10;
+            int expectedSum = 8;
 
             // Act
             int actualSum = math.Add(a, b);
