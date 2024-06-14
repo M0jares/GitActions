@@ -1,0 +1,11 @@
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\bin\Debug\net8.0\TestingGitActions.deps.json
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\bin\Debug\net8.0\TestingGitActions.dll
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\bin\Debug\net8.0\TestingGitActions.pdb
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\TestingGitActions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\TestingGitActions.AssemblyInfoInputs.cache
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\TestingGitActions.AssemblyInfo.cs
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\TestingGitActions.csproj.CoreCompileInputs.cache
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\TestingGitActions.dll
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\refint\TestingGitActions.dll
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\TestingGitActions.pdb
+C:\Users\sison\OneDrive\Desktop\Joshua Mojares\GitHub\TestingGitActions\TestingGitActions\TestingGitActions\obj\Debug\net8.0\ref\TestingGitActions.dll

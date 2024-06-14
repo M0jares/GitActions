@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\TestingGitActions\\TestingGitActions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B35D535-A390-406C-B156-64052A4D5C14}|TestingGitActions\\TestingGitActions.csproj|c:\\users\\sison\\onedrive\\desktop\\joshua mojares\\github\\testinggitactions\\testinggitactions\\testinggitactions\\mathfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B35D535-A390-406C-B156-64052A4D5C14}|TestingGitActions\\TestingGitActions.csproj|solutionrelative:testinggitactions\\mathfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FA434AC-B344-48DD-BC35-C438DFE98C5A}|MathFunctionsTest\\MathFunctionsTest.csproj|c:\\users\\sison\\onedrive\\desktop\\joshua mojares\\github\\testinggitactions\\testinggitactions\\mathfunctionstest\\mathfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FA434AC-B344-48DD-BC35-C438DFE98C5A}|MathFunctionsTest\\MathFunctionsTest.csproj|solutionrelative:mathfunctionstest\\mathfunctionstests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1a46fd64-28d5-434c-8eb3-17a02d419b53}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathfunctionsTests.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\TestingGitActions\\TestingGitActions\\MathFunctionsTest\\MathfunctionsTests.cs",
+              "RelativeDocumentMoniker": "MathFunctionsTest\\MathfunctionsTests.cs",
+              "ToolTip": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\TestingGitActions\\TestingGitActions\\MathFunctionsTest\\MathfunctionsTests.cs",
+              "RelativeToolTip": "MathFunctionsTest\\MathfunctionsTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T03:18:58.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mathfunctions.cs",
+              "DocumentMoniker": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\TestingGitActions\\TestingGitActions\\TestingGitActions\\mathfunctions.cs",
+              "RelativeDocumentMoniker": "TestingGitActions\\mathfunctions.cs",
+              "ToolTip": "C:\\Users\\sison\\OneDrive\\Desktop\\Joshua Mojares\\GitHub\\TestingGitActions\\TestingGitActions\\TestingGitActions\\mathfunctions.cs",
+              "RelativeToolTip": "TestingGitActions\\mathfunctions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T02:46:11.538Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
